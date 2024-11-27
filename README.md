@@ -57,35 +57,25 @@ Below are some screenshots showcasing the app's features:
 
 ### Home Screen
 <img src="./homescreen.png" alt="Home Screen" width="400" />  
-[View Full-Size](./homescreen.png)
 
 ### Project Details
 <img src="./details.png" alt="Project Details" width="400" />  
-[View Full-Size](./details.png)
 
 ### Documents Tab
 <img src="./documents.png" alt="Documents Tab" width="400" />  
-[View Full-Size](./documents.png)
 
 ### Goals Tab
 <img src="./goals1.png" alt="Goals Tab - View 1" width="400" />  
-[View Full-Size](./goals1.png)  
 <img src="./goals2.png" alt="Goals Tab - View 2" width="400" />  
-[View Full-Size](./goals2.png)
 
 ### Invoice Generation
 <img src="./invoice1.png" alt="Invoice Generation - View 1" width="400" />  
-[View Full-Size](./invoice1.png)  
 <img src="./invoice2.png" alt="Invoice Generation - View 2" width="400" />  
-[View Full-Size](./invoice2.png)  
 <img src="./invoice3.png" alt="Invoice Generation - View 3" width="400" />  
-[View Full-Size](./invoice3.png)
 
 ### Timeline
 <img src="./timeline1.png" alt="Timeline - View 1" width="400" />  
-[View Full-Size](./timeline1.png)  
-<img src="C:/Users/codyl/AndroidStudioProjects/freelance_time_tracker/timeline2.png" alt="Timeline - View 2" width="400" />  
-[View Full-Size](C:/Users/codyl/AndroidStudioProjects/freelance_time_tracker/timeline2.png)
+<img src="timeline2.png" alt="Timeline - View 2" width="400" />  
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
